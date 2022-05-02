@@ -1,3 +1,5 @@
+![headshot](armando.jpg)
+
 # A little insight about MandoCooper
 Hi everyone! My name is Armando Melgoza and currently work in Real Estate as a Financial Analyst for a Co-working company... kinda like WeWork, but waaaay more conservative. This README will give you a bit of information about me. 
 
